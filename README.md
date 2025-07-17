@@ -23,7 +23,7 @@ This is a Python simulation that models how lipid nanoparticles (LNPs) interact 
 
 ##  Output Example
 
-![Simulation Screenshot](Figure_1.png)
+![Simulation Screenshot](lnp_uptake_simulation.gif)
 
  Created By
 
